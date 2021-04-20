@@ -7,8 +7,7 @@
 ## Descripción
 
 Éste es el caso práctico 2, donde el Data Scientist de la empresa Mobpatec, dedicada a la fabricación de mobiliario de oficina y dispositivos tecnológicos, debe completar el análisis de datos a través de la Visualización y Creación de Gráficos Estadísticos, empleando las bibliotecas Matplotlib & Seaborn del lenguaje Python.  
-`PREVIAMENTE SE DEBIÓ REALIZAR EL CASO PRÁCTICO 1 DEL CURSO “Data Science con Python: Numpy & Pandas” y puede visualizarse en el repositorio:`  
-[Mobpatec_challenge_A] (https://github.com/jmmolinar/Mobpatec_challenge_A)  
+`PREVIAMENTE SE DEBIÓ REALIZAR EL CASO PRÁCTICO 1 DEL CURSO “Data Science con Python: Numpy & Pandas” y puede visualizarse en el repositorio:` [Mobpatec_challenge_A](https://github.com/jmmolinar/Mobpatec_challenge_A)  
 
 ### `Modelo de datos`
 
