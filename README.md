@@ -26,3 +26,5 @@ Las preguntas  y respuestas del análisis se muestran directamente en el código
 ### `En éste Caso Práctico 2, se hace énfasis en los pasos 4 y 5 del flujo de trabajo del Data Scientist`  
 
 ![image](https://user-images.githubusercontent.com/7356067/112855446-2de58a00-9085-11eb-8049-ac6167d36c50.png)  
+
+### `Los pasos 1, 2 y 3, se pueden observar con mayor detalle en mi repositorio` [Mobpatec_challenge_A](https://github.com/jmmolinar/Mobpatec_challenge_A)
